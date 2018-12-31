@@ -32,3 +32,5 @@
 *.app
 inference
 *.dSYM
+*.swp
+*.DS_Store
