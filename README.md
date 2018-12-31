@@ -1,2 +1,10 @@
-# cs6300-prop-logic
-Old University of Utah CS6300 assignment
+# CS 6300 - Artificial Intelligence
+## April 5, 2007
+
+## To compile
+
+## To Run:
+
+```sh
+% ./inference [args...]
+```
