@@ -1,4 +1,4 @@
-# Propositional Logic
+# Propositional Logic Solver
 
 ## To Run:
 
