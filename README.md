@@ -1,7 +1,4 @@
-# CS 6300 - Artificial Intelligence
-## April 5, 2007
-
-## To compile
+# Propositional Logic
 
 ## To Run:
 
